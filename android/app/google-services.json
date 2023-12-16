@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851810073047",
+    "project_id": "flutterpcbuilderec",
+    "storage_bucket": "flutterpcbuilderec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851810073047:android:a53b88dd67902238bab392",
+        "android_client_info": {
+          "package_name": "com.example.pcbuilderec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD51JRR7pEjrWZRoSR8MJUJXr_nDYLVTns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
